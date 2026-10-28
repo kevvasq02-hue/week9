@@ -2,8 +2,8 @@
 
 
 
-body { background-image: url(5698817.webp) ,url(—Pngtree—abandoned\ wooden\ house\ with\ broken_20420282.png), url(ghost-dog.webp);
-background-size: 400px, 400px, cover;
+body { background-image:url(ghost-dog.webp),url(—Pngtree—abandoned\ wooden\ house\ with\ broken_20420282.png),url(5698817.webp) ;
+background-size: 100px, 100px, cover;
 background-repeat: no-repeat;
-background-position: center, center, bottom right;
+background-position: bottom right, center, center;
 }
