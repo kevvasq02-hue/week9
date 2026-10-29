@@ -3,8 +3,8 @@
 
 
 body { background-image:url(ghost-dog.webp),url(—Pngtree—abandoned\ wooden\ house\ with\ broken_20420282.png),url(5698817.webp) ;
-background-size: 25px, 25px, cover;
-background-repeat: no-repeat;
+background-size: 25px, 25px, 100px;
+background-repeat: repeat;
 background-position: bottom right, center, center;
 }
 .spooky {
