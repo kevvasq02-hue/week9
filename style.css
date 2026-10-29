@@ -3,18 +3,18 @@
 
 
 body { background-image:url(ghost-dog.webp),url(—Pngtree—abandoned\ wooden\ house\ with\ broken_20420282.png),url(5698817.webp) ;
-background-size: 100px, 100px, cover;
+background-size: 25px, 25px, cover;
 background-repeat: no-repeat;
 background-position: bottom right, center, center;
 }
-.spooky-video {
+.spooky {
     position: absolute;
     top: 40%;
     left: 60%;
     transform: rotate(-10deg);
 }
 
-.spooky-video iframe {
+.spooky iframe {
     width: 300px;
     height: 200px;
     border: none;
