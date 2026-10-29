@@ -17,5 +17,6 @@ background-position: bottom right, center, center;
 .spooky iframe {
     width: 300px;
     height: 200px;
+    position: center ;
     border: none;
 }
